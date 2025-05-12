@@ -1,0 +1,8 @@
+{
+  "abi": ["blockchain/build/contracts/VotingSystem.json"],
+  "networks": {
+    "1337": {
+      "address": "0x35f92828f939121246bca3459f8cb7b4333225e2" 
+    }
+  }
+}
